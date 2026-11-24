@@ -1,6 +1,6 @@
 {
   "language":{"label":"Language"},
-  "welcome":{"eyebrow":"INSTALLATION CENTER","title":"Welcome to the Installation Center","description":"Follow the on-screen instructions to install and configure your Otoku Hakken Navi system.","prepareTitle":"Installation wizard","prepareDescription":"Configure your system in 10 guided steps. You can save your progress and resume later."},
+  "welcome":{"eyebrow":"INSTALLATION CENTER","title":"Welcome to the Installation Center","description":"Follow the on-screen instructions to install and configure your Otoku Hakken Navi system.","prepareTitle":"Installation wizard","prepareDescription":"Follow 7 steps, from preparing GitHub to checking your published site. You can save your progress and continue later."},
   "actions":{"start":"Start installation","resume":"Resume setup","save":"Save progress","back":"Back","next":"Next","done":"Done"},
   "wizard":{"eyebrow":"INSTALLATION WIZARD","title":"Initial setup","resumeHint":"You have saved progress. You can resume where you left off."},
   "footer":{"note":"Your language preference and installation progress are saved in this browser."}
