@@ -1,6 +1,6 @@
 {
   "language":{"label":"表示言語"},
-  "welcome":{"eyebrow":"INSTALLATION CENTER","title":"導入管理画面へようこそ","description":"画面の案内に沿って、おトク発見ナビの初期導入と設定を進められます。","prepareTitle":"導入ウィザード","prepareDescription":"10段階の案内に沿って設定できます。途中で保存して、あとから再開できます。"},
+  "welcome":{"eyebrow":"INSTALLATION CENTER","title":"導入管理画面へようこそ","description":"画面の案内に沿って、おトク発見ナビの初期導入と設定を進められます。","prepareTitle":"導入ウィザード","prepareDescription":"GitHubの準備からサイト公開の確認まで、7段階で順番に案内します。途中で保存して、あとから続けることもできます。"},
   "actions":{"start":"導入を開始する","resume":"続きから再開する","save":"進捗を保存","back":"戻る","next":"次へ","done":"完了"},
   "wizard":{"eyebrow":"INSTALLATION WIZARD","title":"初期導入","resumeHint":"保存済みの進捗があります。続きから再開できます。"},
   "footer":{"note":"言語設定と導入の進捗は、このブラウザ内に保存されます。"}
