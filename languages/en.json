@@ -1,0 +1,15 @@
+{
+  "language": {
+    "label": "Language"
+  },
+  "welcome": {
+    "eyebrow": "INSTALLATION CENTER",
+    "title": "Welcome to the Installation Center",
+    "description": "Follow the on-screen instructions to install and configure your Otoku Hakken Navi system.",
+    "prepareTitle": "Preparing your installation",
+    "prepareDescription": "The multilingual foundation is being prepared. The installation wizard will be added on top of this foundation."
+  },
+  "footer": {
+    "note": "Your language preference is saved for this installation dashboard only."
+  }
+}
