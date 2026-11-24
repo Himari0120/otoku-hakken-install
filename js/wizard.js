@@ -12,7 +12,7 @@ ja:{counter:"ステップ",of:" / ",saved:"進捗をこのブラウザに保存�
 ["公開を確認する","公開設定後、GitHub Pagesの画面に表示されるURLからサイトを確認します。","公開まで数分かかる場合があります。Pages画面に表示されたURLを開き、トップページが表示されるか確認してください。表示されない場合は、ファイルの置き場所・トップページのファイル名・Pagesの設定を確認します。公開URL自体はこの管理画面から変更しません。","公開URLを開いてサイトが表示された"],
 ["サイト名を設定する","公開するサイトの名前は、購入者が自分の好きな名前にできます。「おトク発見ナビ」は製品名であり、購入者のサイト名ではありません。","導入後、製品の管理画面にある「サイト基本設定」からサイト名を入力して保存します。サイト名は公開ページの見出しやブラウザーのタイトルなどに反映する設計です。公開URLの変更は行いません。サイト名の設定機能がまだ有効でない版では、製品の更新案内を確認してください。","自分のサイト名を決め、設定方法を確認した"]
 ],finish:"ここまででGitHub Pagesによる導入の流れを確認しました。この画面は手順ガイドです。GitHubへの登録・ファイルのアップロード・公開設定そのものを自動実行するものではありません。"} ,
-en:{counter:"Step",of:" / ",saved:"Progress saved in this browser.",required:"Review the checklist before continuing.",resume:"You can resume from your saved progress.",next:"Next",back:"Back",done:"Finish guide",start:"Start setup",resumeButton:"Resume setup",steps:[
+en:{counter:"Step",of:" / ",githubSignup:"Open GitHub sign-up",pagesHelp:"Open GitHub Pages help",saved:"Progress saved in this browser.",required:"Review the checklist before continuing.",resume:"You can resume from your saved progress.",next:"Next",back:"Back",done:"Finish guide",start:"Start setup",resumeButton:"Resume setup",steps:[
 ["About GitHub","GitHub stores and manages website files online. GitHub Pages can publish those files as a website.","The standard installation method in this guide is GitHub with GitHub Pages. Other hosting methods are outside this guide and require your own research and setup.","I understand GitHub and GitHub Pages"],
 ["Create an account","A free GitHub account is required. If you already have one, simply sign in.","Open GitHub, choose Sign up, enter your email and password, and follow the email verification steps. Keep your sign-in details secure.","I created an account or signed in"],
 ["Create a repository","A repository is a dedicated place to store your website files.","Sign in, choose New repository, enter a repository name, select Public, and choose Create repository.","I created my repository"],
@@ -21,7 +21,7 @@ en:{counter:"Step",of:" / ",saved:"Progress saved in this browser.",required:"Re
 ["Check the published site","After publishing, GitHub Pages displays the website URL.","It may take a few minutes. Open the URL shown on the Pages screen and check that the homepage appears. If it does not, check the file location, homepage filename, and Pages settings. This dashboard does not change the URL.","I opened the URL and saw my site"],
 ["Choose my site name","You can choose your own public website name. OtoKu Hakken Navi is the product name, not the name every customer must use.","After installation, open Site settings in the product dashboard and save your preferred site name. The site name is intended to appear in the site heading and browser title. The public URL is not changed here. Availability depends on the product edition and release.","I chose a site name and reviewed how to set it"]
 ],finish:"You have reviewed the GitHub Pages installation guide. This is a guide only; it does not create your GitHub account, upload files, or publish the site automatically."},
-"zh-CN":{counter:"步骤",of:" / ",saved:"进度已保存在此浏览器。",required:"请先确认本步骤的检查项目。",resume:"可以从已保存的进度继续。",next:"下一步",back:"返回",done:"完成指南",start:"开始安装",resumeButton:"继续安装",steps:[
+"zh-CN":{counter:"步骤",of:" / ",githubSignup:"打开 GitHub 注册页面",pagesHelp:"打开 GitHub Pages 帮助",saved:"进度已保存在此浏览器。",required:"请先确认本步骤的检查项目。",resume:"可以从已保存的进度继续。",next:"下一步",back:"返回",done:"完成指南",start:"开始安装",resumeButton:"继续安装",steps:[
 ["了解 GitHub","GitHub 是在线保存和管理网站文件的服务。GitHub Pages 可以将这些文件发布为网站。","本指南的标准方式是 GitHub 与 GitHub Pages。其他服务器或发布方式不在本指南范围内，需要自行调查和设置。","已了解 GitHub 和 GitHub Pages"],
 ["创建账户","使用 GitHub 需要免费账户。已有账户时直接登录即可。","打开 GitHub，选择 Sign up，填写邮箱和密码，并按照验证邮件完成注册。请妥善保管登录信息。","已创建账户或成功登录"],
 ["创建仓库","Repository（仓库）是集中保存网站文件的位置。","登录后选择 New repository，输入仓库名称，选择 Public，再点击 Create repository。","已创建仓库"],
@@ -30,7 +30,7 @@ en:{counter:"Step",of:" / ",saved:"Progress saved in this browser.",required:"Re
 ["确认网站已发布","发布后，Pages 页面会显示网站网址。","发布可能需要几分钟。打开 Pages 页面显示的网址，确认首页能否显示。如无法显示，请检查文件位置、首页文件名和 Pages 设置。本管理画面不会更改网址。","已打开网址并看到网站"],
 ["设置自己的网站名称","购买者可以自由选择公开网站名称。「おトク発見ナビ」是产品名称，并非所有购买者都必须使用的网站名称。","安装后，在产品管理画面的「网站基本设置」中输入并保存自己喜欢的名称。名称计划显示在网站标题和浏览器标题中。此处不会更改公开网址。具体功能以购买版本为准。","已决定自己的网站名称并了解设置方法"]
 ],finish:"已查看 GitHub Pages 安装指南。本页面仅提供操作说明，不会自动注册 GitHub、上传文件或发布网站。"},
-"zh-TW":{counter:"步驟",of:" / ",saved:"進度已儲存在此瀏覽器。",required:"請先確認本步驟的檢查項目。",resume:"可以從已儲存的進度繼續。",next:"下一步",back:"返回",done:"完成指南",start:"開始安裝",resumeButton:"繼續安裝",steps:[
+"zh-TW":{counter:"步驟",of:" / ",githubSignup:"開啟 GitHub 註冊頁面",pagesHelp:"開啟 GitHub Pages 說明",saved:"進度已儲存在此瀏覽器。",required:"請先確認本步驟的檢查項目。",resume:"可以從已儲存的進度繼續。",next:"下一步",back:"返回",done:"完成指南",start:"開始安裝",resumeButton:"繼續安裝",steps:[
 ["認識 GitHub","GitHub 是線上儲存與管理網站檔案的服務。GitHub Pages 可以將這些檔案發布成網站。","本指南的標準方式是 GitHub 與 GitHub Pages。其他伺服器或發布方式不在本指南範圍內，需要自行研究與設定。","已了解 GitHub 與 GitHub Pages"],
 ["建立帳戶","使用 GitHub 需要免費帳戶。已有帳戶時直接登入即可。","開啟 GitHub，選擇 Sign up，填寫電子郵件與密碼，並依驗證郵件完成註冊。請妥善保管登入資訊。","已建立帳戶或成功登入"],
 ["建立儲存庫","Repository（儲存庫）是集中存放網站檔案的位置。","登入後選擇 New repository，輸入儲存庫名稱，選擇 Public，再點選 Create repository。","已建立儲存庫"],
@@ -39,7 +39,7 @@ en:{counter:"Step",of:" / ",saved:"Progress saved in this browser.",required:"Re
 ["確認網站已發布","發布後，Pages 頁面會顯示網站網址。","發布可能需要幾分鐘。開啟 Pages 頁面顯示的網址，確認首頁是否正常顯示。如無法顯示，請檢查檔案位置、首頁檔名與 Pages 設定。本管理畫面不會變更網址。","已開啟網址並看到網站"],
 ["設定自己的網站名稱","購買者可以自由選擇公開網站名稱。「おトク発見ナビ」是產品名稱，並非所有購買者都必須使用的網站名稱。","安裝後，在產品管理畫面的「網站基本設定」輸入並儲存喜歡的名稱。名稱預計顯示於網站標題與瀏覽器標題。此處不會變更公開網址。實際功能依購買版本而定。","已決定網站名稱並了解設定方式"]
 ],finish:"已查看 GitHub Pages 安裝指南。本頁僅提供操作說明，不會自動註冊 GitHub、上傳檔案或發布網站。"},
-ko:{counter:"단계",of:" / ",saved:"진행 상태를 이 브라우저에 저장했습니다.",required:"계속하기 전에 이 단계의 확인 항목을 확인해 주세요.",resume:"저장된 진행 상태에서 다시 시작할 수 있습니다.",next:"다음",back:"뒤로",done:"가이드 완료",start:"설치 시작",resumeButton:"이어서 진행",steps:[
+ko:{counter:"단계",of:" / ",githubSignup:"GitHub 가입 페이지 열기",pagesHelp:"GitHub Pages 도움말 열기",saved:"진행 상태를 이 브라우저에 저장했습니다.",required:"계속하기 전에 이 단계의 확인 항목을 확인해 주세요.",resume:"저장된 진행 상태에서 다시 시작할 수 있습니다.",next:"다음",back:"뒤로",done:"가이드 완료",start:"설치 시작",resumeButton:"이어서 진행",steps:[
 ["GitHub 알아보기","GitHub는 웹사이트 파일을 온라인에 저장하고 관리하는 서비스입니다. GitHub Pages를 사용하면 파일을 웹사이트로 공개할 수 있습니다.","이 가이드의 표준 방법은 GitHub와 GitHub Pages입니다. 다른 서버나 공개 방법은 이 가이드의 범위 밖이며 직접 조사하고 설정해야 합니다.","GitHub와 GitHub Pages의 역할을 확인했습니다"],
 ["계정 만들기","GitHub를 사용하려면 무료 계정이 필요합니다. 이미 계정이 있다면 로그인하면 됩니다.","GitHub를 열고 Sign up을 선택한 뒤 이메일과 비밀번호를 입력하고 인증 메일의 안내를 따르세요. 로그인 정보는 안전하게 보관하세요.","계정을 만들거나 로그인했습니다"],
 ["저장소 만들기","Repository(저장소)는 웹사이트 파일을 모아 보관하는 공간입니다.","로그인 후 New repository를 선택하고 저장소 이름을 입력합니다. Public을 선택한 다음 Create repository를 누르세요.","저장소를 만들었습니다"],
@@ -64,8 +64,8 @@ function render(){
  data.steps.forEach((s,i)=>{const b=document.createElement("button");b.type="button";b.textContent=(i+1)+". "+s[0];b.className=(i===state.step?"active ":"")+(i<state.step?"done":"");b.disabled=i>state.step;b.setAttribute("aria-current",i===state.step?"step":"false");b.addEventListener("click",()=>{if(i<=state.step){state.step=i;saveQuiet();render()}});$("stepNav").append(b)});
  const content=$("stepContent");content.replaceChildren();
  const detail=document.createElement("div");detail.className="instruction";detail.style.whiteSpace="pre-line";detail.textContent=step[2];content.append(detail);
- if(state.step===1){const a=document.createElement("a");a.href="https://github.com/signup";a.target="_blank";a.rel="noopener noreferrer";a.textContent="GitHub公式アカウント登録ページを開く";a.className="guide-link";content.append(a)}
- if(state.step===4){const a=document.createElement("a");a.href="https://docs.github.com/pages";a.target="_blank";a.rel="noopener noreferrer";a.textContent="GitHub Pages公式ヘルプを開く";a.className="guide-link";content.append(a)}
+ if(state.step===1){const a=document.createElement("a");a.href="https://github.com/signup";a.target="_blank";a.rel="noopener noreferrer";a.textContent=data.githubSignup;a.className="guide-link";content.append(a)}
+ if(state.step===4){const a=document.createElement("a");a.href="https://docs.github.com/pages";a.target="_blank";a.rel="noopener noreferrer";a.textContent=data.pagesHelp;a.className="guide-link";content.append(a)}
  const row=document.createElement("label");row.className="checkline";const cb=document.createElement("input");cb.type="checkbox";cb.checked=!!state.checks[state.step];cb.addEventListener("change",()=>{state.checks[state.step]=cb.checked;saveQuiet()});const span=document.createElement("span");span.textContent=step[3];row.append(cb,span);content.append(row);
  if(state.step===6){const p=document.createElement("p");p.className="muted";p.textContent=data.finish;content.append(p)}
  $("backButton").disabled=state.step===0;$("backButton").textContent=data.back;$("nextButton").textContent=state.step===6?data.done:data.next;$("saveStatus").textContent="";
