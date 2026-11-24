@@ -1,0 +1,15 @@
+{
+  "language": {
+    "label": "표시 언어"
+  },
+  "welcome": {
+    "eyebrow": "INSTALLATION CENTER",
+    "title": "설치 관리 화면에 오신 것을 환영합니다",
+    "description": "화면의 안내에 따라 오토쿠 하켄 내비의 초기 설치와 설정을 진행할 수 있습니다.",
+    "prepareTitle": "설치 준비 중",
+    "prepareDescription": "현재 다국어 공통 기반을 준비하고 있습니다. 설치 마법사는 이 기반 위에 순차적으로 추가됩니다."
+  },
+  "footer": {
+    "note": "언어 설정은 이 설치 관리 화면에만 저장됩니다."
+  }
+}
