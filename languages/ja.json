@@ -1,0 +1,15 @@
+{
+  "language": {
+    "label": "表示言語"
+  },
+  "welcome": {
+    "eyebrow": "INSTALLATION CENTER",
+    "title": "導入管理画面へようこそ",
+    "description": "画面の案内に沿って、おトク発見ナビの初期導入と設定を進められます。",
+    "prepareTitle": "導入準備中",
+    "prepareDescription": "現在、多言語対応の共通基盤を準備しています。導入ウィザードはこの基盤の上に順次追加します。"
+  },
+  "footer": {
+    "note": "言語設定はこの導入管理画面内で保存されます。"
+  }
+}
