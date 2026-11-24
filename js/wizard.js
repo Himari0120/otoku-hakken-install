@@ -61,7 +61,7 @@ function render(){
  $("stepPercent").textContent=Math.round((state.step+1)/7*100)+"%";
  $("progressFill").style.width=((state.step+1)/7*100)+"%";
  $("stepNav").setAttribute("aria-label","Installation steps");$("stepNav").replaceChildren();
- data.steps.forEach((s,i)=>{const b=document.createElement("button");b.type="button";b.textContent=(i+1)+". "+s[0];b.className=(i===state.step?"active ":"")+(i<state.step?"done":"");b.addEventListener("click",()=>{state.step=i;saveQuiet();render()});$("stepNav").append(b)});
+ data.steps.forEach((s,i)=>{const b=document.createElement("button");b.type="button";b.textContent=(i+1)+". "+s[0];b.className=(i===state.step?"active ":"")+(i<state.step?"done":"");b.disabled=i>state.step;b.setAttribute("aria-current",i===state.step?"step":"false");b.addEventListener("click",()=>{if(i<=state.step){state.step=i;saveQuiet();render()}});$("stepNav").append(b)});
  const content=$("stepContent");content.replaceChildren();
  const detail=document.createElement("div");detail.className="instruction";detail.style.whiteSpace="pre-line";detail.textContent=step[2];content.append(detail);
  if(state.step===1){const a=document.createElement("a");a.href="https://github.com/signup";a.target="_blank";a.rel="noopener noreferrer";a.textContent="GitHub公式アカウント登録ページを開く";a.className="guide-link";content.append(a)}
