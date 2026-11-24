@@ -1,15 +1,7 @@
 {
-  "language": {
-    "label": "显示语言"
-  },
-  "welcome": {
-    "eyebrow": "INSTALLATION CENTER",
-    "title": "欢迎使用安装管理界面",
-    "description": "按照屏幕上的说明，完成优惠发现导航系统的初始安装和设置。",
-    "prepareTitle": "正在准备安装",
-    "prepareDescription": "目前正在构建多语言基础功能。安装向导将在此基础上逐步添加。"
-  },
-  "footer": {
-    "note": "语言设置仅保存在此安装管理界面中。"
-  }
+  "language":{"label":"显示语言"},
+  "welcome":{"eyebrow":"INSTALLATION CENTER","title":"欢迎使用安装管理界面","description":"按照屏幕上的说明，完成优惠发现导航系统的初始安装和设置。","prepareTitle":"安装向导","prepareDescription":"按照10个步骤完成设置。您可以保存进度并稍后继续。"},
+  "actions":{"start":"开始安装","resume":"继续安装","save":"保存进度","back":"返回","next":"下一步","done":"完成"},
+  "wizard":{"eyebrow":"INSTALLATION WIZARD","title":"初始设置","resumeHint":"检测到已保存的进度，可以继续上次的操作。"},
+  "footer":{"note":"语言设置和安装进度保存在此浏览器中。"}
 }
