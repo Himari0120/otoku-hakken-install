@@ -1,0 +1,15 @@
+{
+  "language": {
+    "label": "顯示語言"
+  },
+  "welcome": {
+    "eyebrow": "INSTALLATION CENTER",
+    "title": "歡迎使用安裝管理介面",
+    "description": "請依照畫面上的指示，完成優惠發現導航系統的初始安裝與設定。",
+    "prepareTitle": "正在準備安裝",
+    "prepareDescription": "目前正在建置多語言共用基礎。安裝精靈將以此基礎逐步加入。"
+  },
+  "footer": {
+    "note": "語言設定僅儲存在此安裝管理介面中。"
+  }
+}
